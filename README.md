@@ -36,7 +36,7 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
 <br>
 <br>
 
-## 
+
 
 <div align="center">
 <!--h1 without bottom border-->
@@ -46,6 +46,7 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
   </ul>
 </div>
 
+## 
 
 <h4> Languages </h4>
 <span> 
@@ -54,7 +55,6 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white ">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -84,13 +84,12 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 
 </span>
 
 
 
-## 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -98,6 +97,8 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
     <summary><h2 style="display: inline-block"> Connect With Me🤝</h2></summary>
   </ul>
 </div>
+
+## 
 
 <!--icons and links-->
 <p align="center">
