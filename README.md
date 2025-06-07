@@ -104,7 +104,7 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
 <!--icons and links-->
 <p align="center">
   <a href="https://www.instagram.com/lucho_cardo?igsh=MWlxb3B4NWsyeDgwZQ%3D%3D&utm_source=qr" target="blank"> <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/> </a> 
-  <a href="https://www.linkedin.com/in/luciano-cardo-69b4b82a6/" target="blank"> <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/> </a>
+  <a href="https://www.linkedin.com/in/luciano-cardo-94a25b36a/" target="blank"> <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/> </a>
 </p>
 
 
