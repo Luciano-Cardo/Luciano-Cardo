@@ -9,10 +9,6 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
 <br>
 🌱 I’m currently learning React<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>📫 Reach out to me at: cardoluciano2005@gmail.com 
 <br>
-<br>
-<br>
-<br>
-<br>
 <div align="center">
 <!--h1 without bottom border-->
 <div id="user-content-toc">
