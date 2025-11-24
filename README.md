@@ -7,7 +7,7 @@
 I am a bachelor's degree student in systems. I am expanding my knowledge in both front-end and back-end development, . I love to learn and build something new, productive, innovative and creative.
 <br>
 <br>
-🌱 I’m currently learning React<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>📫 Reach out to me at: cardoluciano2005@gmail.com <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+🌱 I’m currently learning React<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>📫 Reach out to me at: cardoluciano2005@gmail.com <p><img align="right" 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br>
