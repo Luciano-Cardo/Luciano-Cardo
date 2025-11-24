@@ -13,21 +13,6 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
 <div align="center">
 <!--h1 without bottom border-->
 <div id="user-content-toc">
