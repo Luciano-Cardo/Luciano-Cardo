@@ -31,6 +31,11 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
   <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white ">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+  <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">
+	
 </span>
 
 <h4> Databases </h4>
@@ -51,6 +56,7 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
 <span>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white ">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 ">
+  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white ">
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -59,7 +65,7 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
-
+## 
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -69,7 +75,6 @@ I am a bachelor's degree student in systems. I am expanding my knowledge in both
   </ul>
 </div>
 
-## 
 
 <!--icons and links-->
 <p align="center">
